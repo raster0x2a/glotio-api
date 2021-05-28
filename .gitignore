@@ -1,0 +1,4 @@
+build/
+dist/
+glotio_api.egg-info/
+glotio/__pycache__/
