@@ -1,4 +1,4 @@
-# glot.io API for Python
+(Unofficial) Python Bindings for the glot.io API
 
 ## Installation
 
