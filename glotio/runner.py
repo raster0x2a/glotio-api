@@ -136,5 +136,5 @@ if __name__ == "__main__":
     g.set_code(code, filename="main.py")
     g.set_stdin("input text")
     g.set_command("python3 main.py 'command line argument'")
-    res = g.run()
-    print(res)
+    result = g.run()
+    print(result)
