@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-$ pip install walkscore-api
+$ pip install glotio-api
 ```
 
 ## Basic Usage
