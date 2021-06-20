@@ -1,7 +1,7 @@
 from .runner import Runner
 
 
-__author__ = "raster0x2a"
+__author__ = "R*"
 __version__ = "1.0.1"
 __copyright__ = f"Copyright (C) 2021 {__author__}"
 __license__ = f"""
