@@ -1,4 +1,5 @@
-(Unofficial) Python Bindings for the glot.io API
+(Unofficial) Python Bindings for the glot.io API.  
+https://pypi.org/project/glotio-api/1.0.1/
 
 ## Installation
 

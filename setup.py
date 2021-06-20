@@ -15,7 +15,7 @@ def _requirements():
 
 setuptools.setup(
     name="glotio-api",
-    version="1.0.0",
+    version="1.0.1",
     author="raster0x2a",
     author_email="raster0x2a@gmail.com",
     description="Python bindings for the glot.io API.",
