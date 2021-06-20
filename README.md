@@ -30,4 +30,4 @@ print(result)
 
 ## LICENCE
 
-glotio-api is made available under an MIT License.
+glotio-api is made available under an [MIT License](https://github.com/raster0x2a/glotio-api/edit/master/LICENSE).
